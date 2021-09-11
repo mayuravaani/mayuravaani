@@ -3,12 +3,7 @@
 <img align="right" alt="Mayu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayuravaani&show_icons=true&&hide=issues,contribscount_private=true&theme=maroongold" />
 
 <br>
-<a href="https://github.com/mayuravaani/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayuravaani&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/mayuravaani/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayuravaani&repo=convoychat" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuravaani&layout=compact"  />
 <!--
 **mayuravaani/mayuravaani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
