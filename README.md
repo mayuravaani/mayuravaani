@@ -1,6 +1,6 @@
 ### <h1> Hi there 👋 </h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuravaani&layout=compact"  />
-<img align="right" alt="Mayu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayuravaani&show_icons=true&&hide=issues,contribscount_private=true&theme=default" />
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuravaani&layout=compact"  />
+<img align="right" alt="Mayu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayuravaani&show_icons=true&&hide=issues,contribscount_private=true&theme=default" /> -->
 
 
 
