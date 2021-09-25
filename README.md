@@ -10,8 +10,8 @@ blog: https://infotec016.blogspot.com/
 <img src="https://activity-graph.herokuapp.com/graph?username=mayuravaani&theme=xcode">
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayuravaani&show_icons=true&theme=merco" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuravaani&theme=merco" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayuravaani&show_icons=true&theme=merko" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuravaani&theme=merko" />
 </p>
 
 
