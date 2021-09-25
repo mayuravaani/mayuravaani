@@ -8,8 +8,8 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuravaani&theme=merko" />
 </p>
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuravaani&layout=compact" />
-<img width="49%"  src="https://activity-graph.herokuapp.com/graph?username=mayuravaani&theme=marko" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuravaani&layout=compact&theme=marko" />
+<img width="49%"  src="https://activity-graph.herokuapp.com/graph?username=mayuravaani&theme=xcode" />
 </p>
 
 Medium: https://mayuravaani.medium.com/ <br>
