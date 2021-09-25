@@ -14,8 +14,8 @@
 
 <div align="left"> 
        
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mayuravaani.medium.com) ->  https://mayuravaani.medium.com
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://infotec016.blogspot.com) -> https://infotec016.blogspot.com
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mayuravaani.medium.com) 
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://infotec016.blogspot.com) 
 </div>
 
 
