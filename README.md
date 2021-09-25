@@ -12,8 +12,12 @@
 <img width="49%" height="100%" src="https://activity-graph.herokuapp.com/graph?username=mayuravaani&theme=xcode" />
 </p>
 
-Medium: https://mayuravaani.medium.com/ <br>
-blog: https://infotec016.blogspot.com/
+<div align="left"> 
+       
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mayuravaani.medium.com) ->  https://mayuravaani.medium.com
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://infotec016.blogspot.com) -> https://infotec016.blogspot.com
+</div>
+
 
 
 <!--
